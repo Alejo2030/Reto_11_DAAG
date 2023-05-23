@@ -53,4 +53,4 @@
 
 ```
 
-## :heart_blue::heart_blue::heart_blue: Vamos Manchester City, campeones de UCL !!!!:heart_blue::heart_blue::heart_blue:
+## :blue_heart::blue_heart::blue_heart:Vamos Manchester City, campeones de UCL !!!!:blue_heart::blue_heart::blue_heart:
