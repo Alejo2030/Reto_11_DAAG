@@ -1,31 +1,23 @@
 # Reto_11_DAAG
 
 
-## Ánimo, ya reto 11 y  ya casi es Junio para ir a la casita !!!!
+## :checkered_flag: Ánimo, ya reto 11 y  ya casi es Junio para ir a la casita !!!!:checkered_flag:
 
 
-## Desarrollo del reto!!!
+##  :lock:Desarrollo del reto!!!:unlock:
 
-### 1.Desarrolle un programa que permita realizar la suma/resta de matrices. El programa debe validar las condiciones necesarias para ejecutar la operación.
+### :triangular_flag_on_post: 1.Desarrolle un programa que permita realizar la suma/resta de matrices. El programa debe validar las condiciones necesarias para ejecutar la operación.
  
-### Código
+### :moyai: Código
 ```ruby
 
 ```
 
 
-### 2.Desarrolle un programa que permita realizar el producto de matrices. El programa debe validar las condiciones necesarias para ejecutar la operación.
-### Código
-
-```ruby
-
-```
+### :triangular_flag_on_post: 2.Desarrolle un programa que permita realizar el producto de matrices. El programa debe validar las condiciones necesarias para ejecutar la operación.
 
 
-
-### 3.Desarrolle un programa que permita obtener la matriz transpuesta de una matriz ingresada. El programa debe validar las condiciones necesarias para ejecutar la operación.
-### Código
-
+### :moyai: Código
 
 ```ruby
 
@@ -33,17 +25,29 @@
 
 
 
+### :triangular_flag_on_post: 3.Desarrolle un programa que permita obtener la matriz transpuesta de una matriz ingresada. El programa debe validar las condiciones necesarias para ejecutar la operación.
 
-### 4.Desarrollar un programa que sume los elementos de una columna dada de una matriz.
-### Código
+
+### :moyai: Código
 
 
 ```ruby
 
 ```
 
-### 5.Desarrollar un programa que sume los elementos de una fila dada de una matriz.
-### Código
+
+
+
+### :triangular_flag_on_post: 4.Desarrollar un programa que sume los elementos de una columna dada de una matriz.
+### :moyai: Código
+
+
+```ruby
+
+```
+
+### :triangular_flag_on_post: 5.Desarrollar un programa que sume los elementos de una fila dada de una matriz.
+###  :moyai: Código
 
 ```ruby
 
