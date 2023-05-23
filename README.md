@@ -10,6 +10,7 @@
  
 ### :moyai: Código
 ```ruby
+#1. Reto 11
 def ingresar_matriz():
     filas = int(input("Ingrese el número de filas de la matriz: "))
     columnas = int(input("Ingrese el número de columnas de la matriz: "))
@@ -94,6 +95,7 @@ if resultado_resta is not None:
         print(fila)
 else:
     print("No se pueden restar las matrices debido a dimensiones incorrectas.")
+
 ```
 
 
